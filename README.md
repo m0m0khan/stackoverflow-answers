@@ -1,6 +1,6 @@
 # Stackoverflow-Answers [![Version](https://img.shields.io/badge/license-MIT-success)](https://opensource.org/licenses/MIT)
 
-Collection of code snippets of all my answers on Stack Overflow
+Collection of code snippets of all [my answers](https://stackoverflow.com/users/8993341/muhammad-mohsin-khan) on Stack Overflow.
 
 ## Author
 

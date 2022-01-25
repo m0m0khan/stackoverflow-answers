@@ -8,4 +8,4 @@ This repository is maintained and authored by [Muhammad Mohsin Khan](https://git
 
 ## License
 
-This repository is licensed under MIT License (see the [LICENSE.md](LICENSE.md) file for details).
+This repository is licensed under MIT License (see the [LICENSE](LICENSE) file for details).
